@@ -1,0 +1,4 @@
+This project is just a testing project to show you how to dockerize a project an push it to you're github repository.
+Thus the codes used for this one,is not complete and you can develope them.in addition, the docker-compose file (with .yml suffix) is no included
+in this project . If you want to use other services of docker for example if you have a database manager app (such as sql or etc), to manage the 
+containers you have to make a docker-compose file and apply it through your dockerization . 
